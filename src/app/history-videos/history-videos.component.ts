@@ -79,11 +79,7 @@ export class HistoryVideosComponent implements OnInit {
       description: 'جلس كريستيانو رونالدو وليونيل ميسي بجانب بعضهما البعض',
       src: "https://a.uguu.se/rhgwFjxZ.mp4",
     },
-      {
-      title: 'عينة فيديو',
-      description: 'جلس كريستيانو رونالدو وليونيل ميسي بجانب بعضهما البعض',
-      src: "https://a.uguu.se/PNGLTpU.mp4",
-    },
+      
   ]
 
   constructor(private location: Location) { }
