@@ -10,7 +10,7 @@ export class HistoryVideosComponent implements OnInit {
 
   videos = [
     {
-      title: 'عينة فيديو',
+      title: 'عينة فيديو 1',
       description: 'جلس كريستيانو رونالدو وليونيل ميسي بجانب بعضهما البعض',
       src: "https://a.uguu.se/mgKizORe.mp4",
     },
