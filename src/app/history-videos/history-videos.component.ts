@@ -5,7 +5,7 @@ import { Component, OnInit } from '@angular/core';
   selector: 'app-history-videos',
   templateUrl: './history-videos.component.html',
   styleUrls: ['./history-videos.component.css']
-})
+}
 export class HistoryVideosComponent implements OnInit {
 
   videos = [
