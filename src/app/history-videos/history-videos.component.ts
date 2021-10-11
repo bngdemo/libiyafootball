@@ -5,7 +5,7 @@ import { Component, OnInit } from '@angular/core';
   selector: 'app-history-videos',
   templateUrl: './history-videos.component.html',
   styleUrls: ['./history-videos.component.css']
-}
+})
 export class HistoryVideosComponent implements OnInit {
 
   videos = [
@@ -79,6 +79,7 @@ export class HistoryVideosComponent implements OnInit {
       description: 'جلس كريستيانو رونالدو وليونيل ميسي بجانب بعضهما البعض',
       src: "https://a.uguu.se/rhgwFjxZ.mp4",
     },
+}
       
   ]
 
